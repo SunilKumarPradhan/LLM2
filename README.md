@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Chat With Multiple PDFs
 emoji: 💬
@@ -10,3 +11,6 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+=======
+# LLM2
+>>>>>>> 5d3fec54f5da2ddf72d3391819af335ebb66348f
